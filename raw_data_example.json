@@ -1,0 +1,651 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "yuSM1TXhZ-hBAFCpWJRzJkrf3Uc",
+  "nextPageToken": "QURTSl9pM2NDckJyamRUS1h2NlpSdnUwX3VJUTVKVmtNQkVDbGJWRzhVdHZYU3V3Qk5vQWR6Q3k3aVJVMjNDaXo1OXNpUFFCbkg3ZmY4aENNTDMwWGpNZVhmTTB5MndlWWlpQ1dEQWpka3hFRjlrRTBJM3cyb0E5dGhxTG1wY0NBX0tQSVl5c2UySmQxZjVINThxNHdxS2w0SHhuLXFxVjdNSDhFWjFaQTM0YUlJUEZWYmlyVkktTllvSzNuTWtsRG9EOW4xaVZfRC1vQ0luMElSdUpWdzlYWnJ6ODVIUThOWFg1ZVhQWEZKZXBqcnBKbUwxSG1YbldxVXlCRGt4dV9XQUxyOGdCc0tocEx4OGFDOWY4amlGOUdGQTZub3dSM29KVy00RzZJekhmRG0tMGd3RkFnenRVblFSLXkyQlJjSGhsVmVCenNreEdzUXAyQTRULUxWenBzdWE3X2FydGNoZUNaYnFTYTBOZEVCRTdvNm9KbzNfM3o4bUU1WFN5dG9uTmlOWQ==",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ii1N11M3M_pjv621JLJtRN-my3g",
+      "id": "UgwrwLMaf5vPOm1cufx4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bhEkeTDDjWUPitrF4FxeWEUByRU",
+          "id": "UgwrwLMaf5vPOm1cufx4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "LAN\u00c7AMENTO: \"Minha especialidade \u00e9 matar: como o bolsonarismo tomou conta do Brasil\"\r: https://amzn.to/2Ul11Ww\r\nInstagram do Henry Bugalho: https://www.instagram.com/henrybugalho/\n\rAPOIE ESTE CANAL: https://apoia.se/henrybugalho \r\nPaypal: http://bit.ly/paypalbugalho\r\n\r\nREFER\u00caNCIAS:\r\nCorregedoria d\u00e1 24h para procurador se manifestar sobre provid\u00eancias contra Sara Winter\r\n\rhttps://valor.globo.com/politica/noticia/2020/06/13/corregedoria-d-24h-para-procurador-se-manifestar-sobre-providncias-contra-sara-winter.ghtml \n\nBolsonaristas simulam bombardeio ao STF com fogos de artif\u00edcio; assista\nhttps://www.poder360.com.br/brasil/bolsonaristas-simulam-bombardeio-ao-stf-com-fogos-de-artificio-assista/\n\nMEUS LIVROS:\r\nLAN\u00c7AMENTO: A Impureza da Minha M\u00e3o Esquerda (2020)\r\nhttps://amzn.to/2xspJvB\r\n\r\n\rMeu pai, o guru do presidente, com Heloisa de Carvalho (2020)\r\nhttps://amzn.to/36oJsrv\r\n\r\nUm Cego em Buenos Aires (2019) \r\nhttps://amzn.to/2tbNfuR\r\n\r\nO Rei dos Judeus (2003)\r\nhttps://amzn.to/2GBJQbN\r\n\r\nO Covil dos Inocentes (2006)\r\nhttps://amzn.to/2OdvZfZ\r\n\r\nGuia Nova York para M\u00e3os-de-Vaca (2008)\r\nhttp://www.maosdevaca.com/2013/03/nova-york-para-maos-de-vaca-nova-york.html\r\n\r\nGuia Roma para M\u00e3os de Vaca (2012)\r\nhttp://www.maosdevaca.com/2013/06/lancamento-do-guia-roma-para-maos-de.html\r\n\r\nCala a Boca e Clica! - Curso de Introdu\u00e7\u00e3o \u00e0 Fotografia (2013)\r\nhttp://www.calabocaeclica.com/p/comprar-o-livro.html\r\n\r\nFantasmas, Vampiros, Dem\u00f4nios e hist\u00f3rias de outros Monstros (2013)\r\nhttps://amzn.to/2vstujp\r\n\r\nO Homem P\u00f3s-Hist\u00f3rico (2013)\r\nhttps://amzn.to/2RGVBnV\r\n\r\nMargot Adormecida (2014)\r\nhttps://amzn.to/37JuwpI\r\n\r\nO Personagem e outras f\u00e1bulas filos\u00f3ficas (2016)\r\nhttps://amzn.to/38PPzH9\r\n\r\nSAMIZDAT\r\nhttp://edicoes.revistasamizdat.com/",
+            "textOriginal": "LAN\u00c7AMENTO: \"Minha especialidade \u00e9 matar: como o bolsonarismo tomou conta do Brasil\"\r: https://amzn.to/2Ul11Ww\r\nInstagram do Henry Bugalho: https://www.instagram.com/henrybugalho/\n\rAPOIE ESTE CANAL: https://apoia.se/henrybugalho \r\nPaypal: http://bit.ly/paypalbugalho\r\n\r\nREFER\u00caNCIAS:\r\nCorregedoria d\u00e1 24h para procurador se manifestar sobre provid\u00eancias contra Sara Winter\r\n\rhttps://valor.globo.com/politica/noticia/2020/06/13/corregedoria-d-24h-para-procurador-se-manifestar-sobre-providncias-contra-sara-winter.ghtml \n\nBolsonaristas simulam bombardeio ao STF com fogos de artif\u00edcio; assista\nhttps://www.poder360.com.br/brasil/bolsonaristas-simulam-bombardeio-ao-stf-com-fogos-de-artificio-assista/\n\nMEUS LIVROS:\r\nLAN\u00c7AMENTO: A Impureza da Minha M\u00e3o Esquerda (2020)\r\nhttps://amzn.to/2xspJvB\r\n\r\n\rMeu pai, o guru do presidente, com Heloisa de Carvalho (2020)\r\nhttps://amzn.to/36oJsrv\r\n\r\nUm Cego em Buenos Aires (2019) \r\nhttps://amzn.to/2tbNfuR\r\n\r\nO Rei dos Judeus (2003)\r\nhttps://amzn.to/2GBJQbN\r\n\r\nO Covil dos Inocentes (2006)\r\nhttps://amzn.to/2OdvZfZ\r\n\r\nGuia Nova York para M\u00e3os-de-Vaca (2008)\r\nhttp://www.maosdevaca.com/2013/03/nova-york-para-maos-de-vaca-nova-york.html\r\n\r\nGuia Roma para M\u00e3os de Vaca (2012)\r\nhttp://www.maosdevaca.com/2013/06/lancamento-do-guia-roma-para-maos-de.html\r\n\r\nCala a Boca e Clica! - Curso de Introdu\u00e7\u00e3o \u00e0 Fotografia (2013)\r\nhttp://www.calabocaeclica.com/p/comprar-o-livro.html\r\n\r\nFantasmas, Vampiros, Dem\u00f4nios e hist\u00f3rias de outros Monstros (2013)\r\nhttps://amzn.to/2vstujp\r\n\r\nO Homem P\u00f3s-Hist\u00f3rico (2013)\r\nhttps://amzn.to/2RGVBnV\r\n\r\nMargot Adormecida (2014)\r\nhttps://amzn.to/37JuwpI\r\n\r\nO Personagem e outras f\u00e1bulas filos\u00f3ficas (2016)\r\nhttps://amzn.to/38PPzH9\r\n\r\nSAMIZDAT\r\nhttp://edicoes.revistasamizdat.com/",
+            "authorDisplayName": "Henry Bugalho",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwPopVBlSOKENnyogzIlFb2djLBdCtgrd3NuQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC6f63SXY0CDpsPGDBtTWVg",
+            "authorChannelId": {
+              "value": "UCC6f63SXY0CDpsPGDBtTWVg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 162,
+            "publishedAt": "2020-06-14T12:43:45Z",
+            "updatedAt": "2020-06-14T12:43:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 9,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "V1_jVc4jeF3BHvgmokeXtfzp2Po",
+      "id": "UgzGculkI_z5GSHjFeJ4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nEABmLgK_os0UgJZfkUELxuUBt4",
+          "id": "UgzGculkI_z5GSHjFeJ4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Aquela \u00e1rea \u00e9 de seguran\u00e7a nacional, aquele \"atentado\" configura crime.",
+            "textOriginal": "Aquela \u00e1rea \u00e9 de seguran\u00e7a nacional, aquele \"atentado\" configura crime.",
+            "authorDisplayName": "Helano",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwPdzrHSRDAkC1f5dz0k8cYayPjzSmk_K-OGw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpIj8Zu08T0S2Zs0TilH5mA",
+            "authorChannelId": {
+              "value": "UCpIj8Zu08T0S2Zs0TilH5mA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 71,
+            "publishedAt": "2020-06-14T14:29:41Z",
+            "updatedAt": "2020-06-14T14:29:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HAxxXqVgpDOpZXvDGG-oBD4D4aA",
+      "id": "UgymlffOiFgfbYEZBIZ4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vxc9UQGUJVdDsQ00oJfXoh_h5jM",
+          "id": "UgymlffOiFgfbYEZBIZ4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Curso: Interven\u00e7\u00e3o militar na pr\u00e1tica\nBy: Sara Winter",
+            "textOriginal": "Curso: Interven\u00e7\u00e3o militar na pr\u00e1tica\nBy: Sara Winter",
+            "authorDisplayName": "Renan Finatto",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwRr6U30PeqY8QTsYq_t9vTd5W8R7CcMCVAKw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsh_JbH9jMRpEiPfNrqRmLg",
+            "authorChannelId": {
+              "value": "UCsh_JbH9jMRpEiPfNrqRmLg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 65,
+            "publishedAt": "2020-06-14T14:35:40Z",
+            "updatedAt": "2020-06-14T14:35:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5evsBzThUXpDpBABu0qo0Imk7LI",
+      "id": "UgzstNgRtvQHIIn0NC94AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GIG49VYBczKYPSaoc5TBTnljsx8",
+          "id": "UgzstNgRtvQHIIn0NC94AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "\"Vamos derrubar voces seus comunistas\" \n???????? Esse pessoal \u00e9 pirado",
+            "textOriginal": "\"Vamos derrubar voces seus comunistas\" \n???????? Esse pessoal \u00e9 pirado",
+            "authorDisplayName": "Marta Andrade",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxmNSehp5u0T3QgUBLYZouYkzO8Tfj9FjBFUw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtheUpW9F7QMF_cedIhQAow",
+            "authorChannelId": {
+              "value": "UCtheUpW9F7QMF_cedIhQAow"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 138,
+            "publishedAt": "2020-06-14T15:07:08Z",
+            "updatedAt": "2020-06-14T15:07:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1CmSC3E_ITFRymj-7WLTCFRbzYE",
+      "id": "UgwBOLAeDlZdPK1olzl4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZAD77y8NIyK3bLRkyGVoagrQAOM",
+          "id": "UgwBOLAeDlZdPK1olzl4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Esse grupo \u00e9 meia d\u00fazia de gato pingado!! E pelo visto est\u00e3o abandonado por seus patrocinadores e idealizadores !",
+            "textOriginal": "Esse grupo \u00e9 meia d\u00fazia de gato pingado!! E pelo visto est\u00e3o abandonado por seus patrocinadores e idealizadores !",
+            "authorDisplayName": "Fabricio moro",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw_eMqITDUoUEC9LdvXcNxR5iUdyXJj6dxjTw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUXPztPK4obzTyiXmAWfWIA",
+            "authorChannelId": {
+              "value": "UCUXPztPK4obzTyiXmAWfWIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 88,
+            "publishedAt": "2020-06-14T14:13:15Z",
+            "updatedAt": "2020-06-14T14:13:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tpG6AoyrTrSgGP8kEgx6KhREU3Q",
+      "id": "UgxgI9FD_VqlGn0KKGF4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HuSVhYZ65dNsTAGj7VRAZCqdzuU",
+          "id": "UgxgI9FD_VqlGn0KKGF4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Os \"300\" que na verdade s\u00e3o 30 nazifastas se doeram porque foram expulsos e bem expulsos.\nBem feito!",
+            "textOriginal": "Os \"300\" que na verdade s\u00e3o 30 nazifastas se doeram porque foram expulsos e bem expulsos.\nBem feito!",
+            "authorDisplayName": "Denis Arag\u00e3o",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxPGZ--CW9bkDz46lFc_KWH125VOxbrKKd-9Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdSfWlh8YvMMM-BoUTMSMLA",
+            "authorChannelId": {
+              "value": "UCdSfWlh8YvMMM-BoUTMSMLA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 20,
+            "publishedAt": "2020-06-14T15:25:14Z",
+            "updatedAt": "2020-06-14T15:25:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9ToMCUeNAhDn90N7yfyRiMKJ5J0",
+      "id": "UgzOghrjoFugSGPIhGd4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7_YynAD1NSacrYUiVpTtyqHmxW4",
+          "id": "UgzOghrjoFugSGPIhGd4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Esses bandidos bolsominios cada dia mais doentes\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+            "textOriginal": "Esses bandidos bolsominios cada dia mais doentes\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+            "authorDisplayName": "iza dsk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwLk4_qdZdY-Vedg-ICdluiplUZtecPef6Kfw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIyIfJmj36MUEDRo-7gJWsA",
+            "authorChannelId": {
+              "value": "UCIyIfJmj36MUEDRo-7gJWsA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 126,
+            "publishedAt": "2020-06-14T13:58:20Z",
+            "updatedAt": "2020-06-14T13:58:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "payKyDTVwPl_Ktre649CIngIgM0",
+      "id": "Ugx2ZtSq18sLXDhzB_t4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OEBUkGhedP9qfPjPBdRYqC_gJ5s",
+          "id": "Ugx2ZtSq18sLXDhzB_t4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "300 que n\u00e3o passam de 20! Querem ditadura e quando ditadura chega eles reclamam!",
+            "textOriginal": "300 que n\u00e3o passam de 20! Querem ditadura e quando ditadura chega eles reclamam!",
+            "authorDisplayName": "Rudinei Basei",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzlBWrsJVGZ3ciT87ByD8KKvMLDu3WCYDUUhA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV2swHc4Q1qfw5vVgVHGPwA",
+            "authorChannelId": {
+              "value": "UCV2swHc4Q1qfw5vVgVHGPwA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 46,
+            "publishedAt": "2020-06-14T14:45:31Z",
+            "updatedAt": "2020-06-14T14:45:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zamJbyQIpGSDUGbhOhGvGIbvQTc",
+      "id": "UgzdjN7uNUUkq_U65Gp4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9Iuy0S5TnIrowB48jOBGXTHOSzk",
+          "id": "UgzdjN7uNUUkq_U65Gp4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Opera\u00e7\u00e3o policial contra o 30 de Bras\u00edlia...\nGrande dia!!!",
+            "textOriginal": "Opera\u00e7\u00e3o policial contra o 30 de Bras\u00edlia...\nGrande dia!!!",
+            "authorDisplayName": "Wagner Machado",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyp2WrT0_RsYxKjpkbM6HV7ir3Vms_IK2ZR5A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG6oMKA8G1lLRT9IF_bJlGg",
+            "authorChannelId": {
+              "value": "UCG6oMKA8G1lLRT9IF_bJlGg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 40,
+            "publishedAt": "2020-06-14T13:48:58Z",
+            "updatedAt": "2020-06-14T13:48:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wtyYS4dWYt5X7j-WWZNV5FT6m6M",
+      "id": "UgxScfw9rmZLPcxlehp4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TANL1lNBwR0c8rYPd0iqt2-mfrQ",
+          "id": "UgxScfw9rmZLPcxlehp4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "O que falta para as autoridades prenderem esses milicianos?",
+            "textOriginal": "O que falta para as autoridades prenderem esses milicianos?",
+            "authorDisplayName": "Ilza Zampaglione",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwTjXJd7I9-nCdsixm-k6NS6ETJvd9UsVmjbA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCut_3JohNaeitbLg33GUPOg",
+            "authorChannelId": {
+              "value": "UCut_3JohNaeitbLg33GUPOg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 72,
+            "publishedAt": "2020-06-14T14:55:35Z",
+            "updatedAt": "2020-06-14T14:55:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cpAvNUv_1MsVZ3kghLNN8n8Lkzs",
+      "id": "Ugz3a3Nei6Wh36Hvuxd4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cgfR5F_bKNFQtcD57Oo9EpehjP8",
+          "id": "Ugz3a3Nei6Wh36Hvuxd4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Essa mulher, Sara, deveria ter sido presa por desacato.",
+            "textOriginal": "Essa mulher, Sara, deveria ter sido presa por desacato.",
+            "authorDisplayName": "EMUFRN BASSOON",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxW-c-9vMeMGP4Jn2VI0-RqLgPLzrxFHd6gdw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5vpQtAhdVXuX3lB74Nx3PQ",
+            "authorChannelId": {
+              "value": "UC5vpQtAhdVXuX3lB74Nx3PQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 110,
+            "publishedAt": "2020-06-14T14:30:13Z",
+            "updatedAt": "2020-06-14T14:30:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "X__8ME5yhQTUmowdXN3Fa6FnisI",
+      "id": "Ugx8fxEVamhpq9VSOzZ4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EEh-NGRq98T11KD9XSiBRJ6ypnw",
+          "id": "Ugx8fxEVamhpq9VSOzZ4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "se fossem o MST ter\u00edamos hj mais corpos para contar",
+            "textOriginal": "se fossem o MST ter\u00edamos hj mais corpos para contar",
+            "authorDisplayName": "Ant\u00f3nio Carlos Silva",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyvuVISWcrtZkSJxD2q6_x7hQZIrBhY1YIkyQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3X7e_zwD_-hwj2IapxsUEQ",
+            "authorChannelId": {
+              "value": "UC3X7e_zwD_-hwj2IapxsUEQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 24,
+            "publishedAt": "2020-06-14T14:17:27Z",
+            "updatedAt": "2020-06-14T14:17:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YMWRxFCOnDXup58DRUKyt_SfTXs",
+      "id": "UgxU3xOLEg3hutfYwBR4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EhXfqfuV8nZXsVvSEfhADYNMtj4",
+          "id": "UgxU3xOLEg3hutfYwBR4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "S\u00f3 tenho pena do filho dessa doida!",
+            "textOriginal": "S\u00f3 tenho pena do filho dessa doida!",
+            "authorDisplayName": "Ruth Lopes",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx7tLHAEsjyWmLsOU4hkmot4_eafFPW10KUyA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkBmFQt-HHiCgKh2K__AUDg",
+            "authorChannelId": {
+              "value": "UCkBmFQt-HHiCgKh2K__AUDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2020-06-14T15:32:39Z",
+            "updatedAt": "2020-06-14T15:32:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5iu8pZWMPtAUr0e3U-q1Aamd1Js",
+      "id": "UgyeVZ_7bTfWyBLGo5J4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OQGo367KzSzXwqZXZ3s7RvXuEgQ",
+          "id": "UgyeVZ_7bTfWyBLGo5J4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Deveriam encherem os olhos da sara P winter de splay de pimenta malagueta!",
+            "textOriginal": "Deveriam encherem os olhos da sara P winter de splay de pimenta malagueta!",
+            "authorDisplayName": "Jonathan Alves calhao",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy_mjAZqoYrsrQZvH1NUeiVk4iqx9CL7xHhkQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDr7XDyFkEpIOJ19YxmRrRg",
+            "authorChannelId": {
+              "value": "UCDr7XDyFkEpIOJ19YxmRrRg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 69,
+            "publishedAt": "2020-06-14T14:17:07Z",
+            "updatedAt": "2020-06-14T14:17:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l8MBT97Jh6T4bhNhbA8GkHNCX1s",
+      "id": "UgxtvSTGbHBSzpQ4j3p4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Nnk8LKIxKkDS9TvBiF8xz8pgORQ",
+          "id": "UgxtvSTGbHBSzpQ4j3p4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Os M\u00e9dicos,Professores, Policiais e as institui\u00e7\u00f5es do pa\u00eds \nmerecem respeito!  Parab\u00e9ns pelos v\u00eddeos Henry !",
+            "textOriginal": "Os M\u00e9dicos,Professores, Policiais e as institui\u00e7\u00f5es do pa\u00eds \nmerecem respeito!  Parab\u00e9ns pelos v\u00eddeos Henry !",
+            "authorDisplayName": "Marcelo Camilo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxd05fUSK41b4G4-haGyaFx1313iNdsjeeCDw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPrL_XZv5udjsKjFb0lvK5g",
+            "authorChannelId": {
+              "value": "UCPrL_XZv5udjsKjFb0lvK5g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 65,
+            "publishedAt": "2020-06-14T14:37:49Z",
+            "updatedAt": "2020-06-14T14:37:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 6,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "G_ZTUKhFyXQGivJUt1RluelWuPs",
+      "id": "UgyUAzbx7gUR7Tjf5LF4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_Iy5j6g56AQ6YIr5AkDwzlhs5b4",
+          "id": "UgyUAzbx7gUR7Tjf5LF4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "ESSES FASCISTAS \ud83d\udc79\ud83d\udc7a\ud83c\udf1a AINDA USAM O NOME DE DEUS PRAS MALDADES DELES\ud83e\udd11\ud83e\udd2e",
+            "textOriginal": "ESSES FASCISTAS \ud83d\udc79\ud83d\udc7a\ud83c\udf1a AINDA USAM O NOME DE DEUS PRAS MALDADES DELES\ud83e\udd11\ud83e\udd2e",
+            "authorDisplayName": "Inalda Costa",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxRDo-h9K-pfrEctq40l-B7ahf5eUhUaHNL6g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoGr2tkE5gcNZn28mk3ANgA",
+            "authorChannelId": {
+              "value": "UCoGr2tkE5gcNZn28mk3ANgA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 82,
+            "publishedAt": "2020-06-14T15:00:32Z",
+            "updatedAt": "2020-06-14T15:00:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0HSi8qpUxHQHnDlCedoO57hr8a0",
+      "id": "Ugx6rqW91dDBpxhNiOp4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gSYVqVRFjXz9klieJqcI27juHMI",
+          "id": "Ugx6rqW91dDBpxhNiOp4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "\"Spray de pimenta para temperar a ordem\" [Na\u00e7\u00e3o Zumbi - Propaganda]",
+            "textOriginal": "\"Spray de pimenta para temperar a ordem\" [Na\u00e7\u00e3o Zumbi - Propaganda]",
+            "authorDisplayName": "Wallace Vidal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyoBMjzt20Ql2iBlDKMtl0sfVl5d4LLlIDxeg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8vamAXwtKWm_pnQuPYj5Og",
+            "authorChannelId": {
+              "value": "UC8vamAXwtKWm_pnQuPYj5Og"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2020-06-14T15:11:05Z",
+            "updatedAt": "2020-06-14T15:11:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VVPDGY68MxLOvj1zdmrMn0ggTAU",
+      "id": "UgyqssudITpzMykFABF4AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "f2rKb-wVOXQgfVSkWIQtgq92OZY",
+          "id": "UgyqssudITpzMykFABF4AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Pq at\u00e9 agora esta \"cidad\u00e3\" n\u00e3o foi presa?",
+            "textOriginal": "Pq at\u00e9 agora esta \"cidad\u00e3\" n\u00e3o foi presa?",
+            "authorDisplayName": "ROSE MARY DA SILVA PARENTE",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyexo8t0yRzyOwooxjR0nrzyJnZqdzhCBOiug=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCelsDxPB3-Cs7Nbfv8cfGuQ",
+            "authorChannelId": {
+              "value": "UCelsDxPB3-Cs7Nbfv8cfGuQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 45,
+            "publishedAt": "2020-06-14T14:11:49Z",
+            "updatedAt": "2020-06-14T14:11:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ThADH1MtLVnD50t5a2e1cwF6U-k",
+      "id": "Ugz3sp9sD3BZw16imb14AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RW8Zm2sJRi0cCDiWo7MfNaAesro",
+          "id": "Ugz3sp9sD3BZw16imb14AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Eles acabaram de ser apresentados a interven\u00e7\u00e3o militar de que tanto falavam...mas n\u00e3o do jeito que eles queriam kkkkkkkk.",
+            "textOriginal": "Eles acabaram de ser apresentados a interven\u00e7\u00e3o militar de que tanto falavam...mas n\u00e3o do jeito que eles queriam kkkkkkkk.",
+            "authorDisplayName": "Daemonoid",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwnONL0N9Bmx79U0P-A02jqsWRdIQ4bg8rclw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClk58Y4UJzc41cs06KuIv9A",
+            "authorChannelId": {
+              "value": "UClk58Y4UJzc41cs06KuIv9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 66,
+            "publishedAt": "2020-06-14T15:35:00Z",
+            "updatedAt": "2020-06-14T15:35:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OGgjTNBNAxxEXduMf_zCdvjSK-U",
+      "id": "Ugza5LCuJU8fhzefBj54AaABAg",
+      "snippet": {
+        "videoId": "taMs7LvSFEY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RBO0yhhkHEFg6xweDPaK1WIqQj4",
+          "id": "Ugza5LCuJU8fhzefBj54AaABAg",
+          "snippet": {
+            "videoId": "taMs7LvSFEY",
+            "textDisplay": "Os mach\u00f5es armados at\u00e9 os dentes, arregaram sem lutar!\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "textOriginal": "Os mach\u00f5es armados at\u00e9 os dentes, arregaram sem lutar!\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "authorDisplayName": "Andr\u00e9 Cruz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzAIsMH1pSmXna0IdSCc5mAv_u136P7xO6o9g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChZbQZoHj6TzGOlbu6InX-Q",
+            "authorChannelId": {
+              "value": "UChZbQZoHj6TzGOlbu6InX-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 23,
+            "publishedAt": "2020-06-14T14:34:23Z",
+            "updatedAt": "2020-06-14T14:34:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    }
+  ]
+}

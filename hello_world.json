@@ -1,0 +1,50 @@
+[
+  {
+    "Position": 1,
+    "Conte\u00fado": "Viva Caio, j\u00e1 estavas fazendo falta. Obrigado por mais esse v\u00eddeo. Valeu mesmo!",
+    "Likes": 3,
+    "Replies": 1
+  },
+  {
+    "Position": 2,
+    "Conte\u00fado": "No JavaScript tem o React Native tbm que \u00e9 um dos frameworks mais usados (se n\u00e3o o usado) no desenvolvimento mobile",
+    "Likes": 2,
+    "Replies": 1
+  },
+  {
+    "Position": 3,
+    "Conte\u00fado": "Parab\u00e9ns pelos v\u00eddeos!",
+    "Likes": 1,
+    "Replies": 0
+  },
+  {
+    "Position": 4,
+    "Conte\u00fado": "Eu acho que o problema de JS para iniciantes nao eh nem ser tao permissiva, python tbm eh, mas o problema eh que a linguagem depende muito do contexto (no browser tu tem as web apis do browser, mas se tu for pra nodeJS tu vai ter outras APIs) e tambem houve mudan\u00e7as muito significativas em seu desenvolvimento. Por exemplo, orientada a objeto em ES5- tu faz atraves da prototype chain, oq eh um pouco ruim de trabalhar (e tbm nao eh padronizado, em um lugar tu acessa por __proto__ outros por proto e outros por getPrototype()), mas em ES6 tu ja tem a sintaxe de classes, soh que em ES6 tu tem muito mais coisas junto, entao a carga de estudo eh maior para tu ter acesso as features da linguagem que sao faceis de trabalhar.\nO event loop tbm eh uma outra caracteristica que dificulta bastante, at\u00e9 mesmo pessoas que trabalham com JS diariamente nao sabem muito bem como o event loop funciona",
+    "Likes": 1,
+    "Replies": 1
+  },
+  {
+    "Position": 5,
+    "Conte\u00fado": "*EM PLENO 2020,DENO,NOVA REVOLU\u00c7\u00c3O,DART E FLUTTER MUITO FACIL OTIMIZADO E RAPIDO,ALGU\u00c9M: JAVASCRIPT \u00c9 UMA BOA LANG PRA COME\u00c7AR ?,\"EI MANO TO S\u00d3 ZOANDO KAKAKKA LEVA NA BRINCA,ENOIS KKKKKK(SEI QUE TODO MUNDO COME\u00c7A EM ALGO,NINGUEM NASCE SABENDO AKKAKA)*",
+    "Likes": 1,
+    "Replies": 2
+  },
+  {
+    "Position": 6,
+    "Conte\u00fado": "eu to come\u00e7ando a aprender a programar com Java, fiz certo?",
+    "Likes": 2,
+    "Replies": 3
+  },
+  {
+    "Position": 7,
+    "Conte\u00fado": "Acho q python n\u00e3o \u00e9 a melhor  linguagem para come\u00e7ar,  pq ela vem de outras linguagens ex: Sempre q algu\u00e9m vai fazer alguma coisa em python ele se refere a outra linguagem, falando: Na linguagem x \u00e9 assim e assado \u00e9 assim q acontece \u00e9 assim q faz. Ou seja, isso \u00e9 muito chato, e eu acho q pode dificultar a aprender a l\u00f3gica de programa\u00e7\u00e3o pq muita coisa j\u00e1 vem pronto pq veio de outras linguagens, acho q python \u00e9 boa linguagem se vc j\u00e1 sabe programar em linguagens como C, C++ ou JAVA.",
+    "Likes": 1,
+    "Replies": 1
+  },
+  {
+    "Position": 8,
+    "Conte\u00fado": "At\u00e9 eu que j\u00e1 fiz um ano da faculdade de computa\u00e7\u00e3o, n\u00e3o sei como come\u00e7ar. S\u00f3 sei criar algoritmos em C, mas agora n\u00e3o sei o que aprender pra conseguir um emprego como programador. Alias, sei nem qual \u00e1rea da programa\u00e7\u00e3o quero chegar.",
+    "Likes": 1,
+    "Replies": 1
+  }
+]
