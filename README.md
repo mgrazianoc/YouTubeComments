@@ -4,7 +4,7 @@ Basic program to retrieve mainly Youtube comments from a given YouTube Video Id
 
 
 Notes:
-get_comments.py is the program. Is set to retrieve 100 comments in a single video
+get_comments.py is the program. It is set to retrieve 100 comments in a single video
 
 hello_world.json is just an example of comments from a video
 
